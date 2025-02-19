@@ -41,4 +41,5 @@ Connect & Discuss: Open issues or start discussions for any insights or potentia
 👤 Akash Shanmuganathan - Project Lead 
 👤 Visionary Mavericks Team - Core contributors
 🔗 Connect & Explore
-📍 GitHub Repo: Brain-Buddies📍 LinkedIn: linkedin.com/in/akash-shanmuganathan
+📍 GitHub Repo: Brain-Buddies
+📍 LinkedIn: linkedin.com/in/akash-shanmuganathan
