@@ -20,11 +20,8 @@ User Feedback & Testing applied for iterative improvements
 🛠️ Tools & Technologies Used
 
 🔹 Project Management: JIRA, Trello, MS Project
-
 🔹 Collaboration & Communication: Microsoft Teams, Google Meet
-
 🔹 Data Visualization: Tableau, Power BI
-
 🔹 Security & Compliance: AWS (Cloud Hosting), GDPR Compliance
 
 👀 How to Use This Repository
